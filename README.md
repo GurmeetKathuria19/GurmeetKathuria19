@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hey!%20I%20am%20Divyanshu%20Verma&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hey!%20I%20am%20Gurmeet%20Kathuria&fontSize=50&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurmeet-kathuria) &nbsp; [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurmeetkathuria088@gmail.com) &nbsp;
 
